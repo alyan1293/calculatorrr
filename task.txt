@@ -1,0 +1,15 @@
+ 
+Task:
+    Basic Calculator 
+    What to build:
+        - An HTML form with two inputs (number1, number2) and a dropdown for operation (+, -, *, /).
+    Use JavaScript to:
+        - Prevent page refresh.
+        - Calculate the result instantly and show it in a <div>.
+    Use PHP:
+        - Post the same form to a PHP script.
+        - Do the same calculation in PHP.
+        - Display “JS result: X, PHP result: Y”.
+
+
+        
